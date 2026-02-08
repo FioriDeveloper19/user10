@@ -6,22 +6,22 @@ annotate service.EmployeeDetails with @(
             {
                 $Type : 'UI.DataField',
                 Label : 'id',
-                Value : id,
+                Value : Id,
             },
             {
                 $Type : 'UI.DataField',
                 Label : 'name',
-                Value : name,
+                Value : Employee Name,
             },
             {
                 $Type : 'UI.DataField',
                 Label : 'street',
-                Value : street,
+                Value : Street,
             },
             {
                 $Type : 'UI.DataField',
                 Label : 'city',
-                Value : city,
+                Value : City,
             },
         ],
     },
